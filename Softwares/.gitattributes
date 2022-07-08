@@ -1,2 +1,0 @@
-ds5-ce-windows64-29rel1.zip filter=lfs diff=lfs merge=lfs -text
-gcc-arm-10.2-2020.11-mingw-w64-i686-aarch64-none-elf.tar.xz filter=lfs diff=lfs merge=lfs -text
